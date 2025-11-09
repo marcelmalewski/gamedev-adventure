@@ -1,2 +1,1 @@
-# gamedev-adventure
-Mini game projects
+# Game from tutorial :)
